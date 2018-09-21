@@ -1,17 +1,22 @@
 _repo: Brief-Account-of-the-English-Character_54820
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 大英國人事略說
 contributor:
   translator:
     agent_name: Morrison, Robert
     gutenberg_agent_id: '48059'
     url: http://www.gutenberg.org/2009/agents/48059
+covers:
+- cover_type: archival
+  image_path: 54820-h/images/twocover.jpg
 creator:
   author:
     agent_name: Marjoribanks, Charles
     gutenberg_agent_id: '48058'
     url: http://www.gutenberg.org/2009/agents/48058
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54820#Brief-Account-of-the-English-Character
 gutenberg_issued: '2017-05-31'
 gutenberg_type: Text
 identifiers:
